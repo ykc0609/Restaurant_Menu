@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/restaurant_menu/static/css/main.acbbab29.css",
-    "main.js": "/restaurant_menu/static/js/main.d4be4fa8.js",
-    "static/js/787.578e6cb3.chunk.js": "/restaurant_menu/static/js/787.578e6cb3.chunk.js",
-    "static/media/LiWULogo_Color.jpg": "/restaurant_menu/static/media/LiWULogo_Color.189741a4c743ddb95318.jpg",
-    "index.html": "/restaurant_menu/index.html",
-    "main.acbbab29.css.map": "/restaurant_menu/static/css/main.acbbab29.css.map",
-    "main.d4be4fa8.js.map": "/restaurant_menu/static/js/main.d4be4fa8.js.map",
-    "787.578e6cb3.chunk.js.map": "/restaurant_menu/static/js/787.578e6cb3.chunk.js.map"
+    "main.css": "/Restaurant_Menu/static/css/main.acbbab29.css",
+    "main.js": "/Restaurant_Menu/static/js/main.6b4cc66c.js",
+    "static/js/787.578e6cb3.chunk.js": "/Restaurant_Menu/static/js/787.578e6cb3.chunk.js",
+    "static/media/LiWULogo_Color.jpg": "/Restaurant_Menu/static/media/LiWULogo_Color.189741a4c743ddb95318.jpg",
+    "index.html": "/Restaurant_Menu/index.html",
+    "main.acbbab29.css.map": "/Restaurant_Menu/static/css/main.acbbab29.css.map",
+    "main.6b4cc66c.js.map": "/Restaurant_Menu/static/js/main.6b4cc66c.js.map",
+    "787.578e6cb3.chunk.js.map": "/Restaurant_Menu/static/js/787.578e6cb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acbbab29.css",
-    "static/js/main.d4be4fa8.js"
+    "static/js/main.6b4cc66c.js"
   ]
 }
