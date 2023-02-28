@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Restaurant_Menu/static/css/main.acbbab29.css",
-    "main.js": "/Restaurant_Menu/static/js/main.6b4cc66c.js",
+    "main.css": "/Restaurant_Menu/static/css/main.10e6d80d.css",
+    "main.js": "/Restaurant_Menu/static/js/main.225c4a59.js",
     "static/js/787.578e6cb3.chunk.js": "/Restaurant_Menu/static/js/787.578e6cb3.chunk.js",
     "static/media/LiWULogo_Color.jpg": "/Restaurant_Menu/static/media/LiWULogo_Color.189741a4c743ddb95318.jpg",
     "index.html": "/Restaurant_Menu/index.html",
-    "main.acbbab29.css.map": "/Restaurant_Menu/static/css/main.acbbab29.css.map",
-    "main.6b4cc66c.js.map": "/Restaurant_Menu/static/js/main.6b4cc66c.js.map",
+    "main.10e6d80d.css.map": "/Restaurant_Menu/static/css/main.10e6d80d.css.map",
+    "main.225c4a59.js.map": "/Restaurant_Menu/static/js/main.225c4a59.js.map",
     "787.578e6cb3.chunk.js.map": "/Restaurant_Menu/static/js/787.578e6cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acbbab29.css",
-    "static/js/main.6b4cc66c.js"
+    "static/css/main.10e6d80d.css",
+    "static/js/main.225c4a59.js"
   ]
 }
