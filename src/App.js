@@ -3,6 +3,7 @@ import React from "react";
 import Logo from "./components/Logo";
 import Food from "./components/Food";
 import Total from "./components/Total";
+import Info from "./components/Info"
 import { Provider } from "./Context";
 import FoodData from "./data";
 
@@ -13,7 +14,8 @@ function App() {
       
       
       <aside className="aside">
-      <h1 className="title">驪屋日式拉麵菜單</h1>
+        <h1 className="title">驪屋日式拉麵菜單</h1>
+        <Info/>
         <Food type="pork" name="豚骨" items={FoodData.pork} />
         <Food type="miso" name="味噌" items={FoodData.miso} />
         <Food type="soysauce" name="醬油" items={FoodData.soysauce} />

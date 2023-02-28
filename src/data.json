@@ -1,225 +1,347 @@
 {
-    "pork": [
+    "pork": {
+        "english_translate": "Tonkotsu",
+        "discount": "週三8折 Wed. 20% off",
+        "menu":[
       {
         "name": "豚骨奶油玉米拉麵",
+        "english_translate": "Creamy corn ramen",
+        "description":"",
         "price": "170"
       },
       {
         "name": "豚骨野菜拉麵",
+        "english_translate": "Vegetable ramen",
+        "description":"",
         "price": "170"
       },
       {
         "name": "豚骨叉燒拉麵",
+        "english_translate": "Pork chashu ramen",
+        "description":"",
         "price": "180"
       },
       {
         "name": "豚骨豬排拉麵",
+        "english_translate": "Tonkatsu ramen",
+        "description":"",
         "price": "180"
       },
       {
         "name": "豚骨可樂餅拉麵",
+        "english_translate": "Korokke ramen",
+        "description":"",
         "price": "190"
       },
       {
         "name": "豚骨炸蝦拉麵",
+        "english_translate": "Shrimp tempura ramen",
+        "description":"",
         "price": "210"
       },
       {
         "name": "豚骨鮮蝦拉麵",
+        "english_translate": "Shrimp ramen",
+        "description":"",
         "price": "210"
       }
-    ],
-    "miso": [
+    ]},
+    "miso": {
+        "english_translate": "Miso",
+        "discount": "週二8折 Tues. 20% off",
+        "menu":[
         {
           "name": "味噌奶油玉米拉麵",
+          "english_translate": "Creamy corn ramen",
+          "description":"",
           "price": "170"
         },
         {
           "name": "味噌野菜拉麵",
+          "english_translate": "Vegetable ramen",
+          "description":"",
           "price": "170"
         },
         {
           "name": "味噌叉燒拉麵",
+          "english_translate": "Pork chashu ramen",
+          "description":"",
           "price": "180"
         },
         {
           "name": "味噌豬排拉麵",
+          "english_translate": "Tonkatsu ramen",
+          "description":"",
           "price": "180"
         },
         {
           "name": "味噌可樂餅拉麵",
+          "english_translate": "Korokke ramen",
+          "description":"",
           "price": "190"
         },
         {
           "name": "味噌炸蝦拉麵",
+          "english_translate": "Shrimp tempura ramen",
+          "description":"",
           "price": "210"
         },
         {
           "name": "味噌鮮蝦拉麵",
+          "english_translate": "Shrimp ramen",
+          "description":"",
           "price": "210"
         }
-      ],
-      "soysauce": [
+      ]},
+      "soysauce": {
+        "english_translate": "Shoyu",
+        "discount": "週四8折 Thur. 20% off",
+        "menu":[
         {
             "name": "醬油素食拉麵",
+            "english_translate": "Vegan ramen",
+            "description":"",
             "price": "140"
         },
         {
           "name": "醬油叉燒拉麵",
+          "english_translate": "Pork chashu ramen",
+          "description":"",
           "price": "180"
         },
         {
           "name": "醬油豬排拉麵",
+          "english_translate": "Tonkatsu ramen",
+          "description":"",
           "price": "180"
         },
         {
           "name": "醬油可樂餅拉麵",
+          "english_translate": "Korokke ramen",
+          "description":"",
           "price": "190"
         },
         {
           "name": "醬油炸蝦拉麵",
+          "english_translate": "Shrimp tempura ramen",
+          "description":"",
           "price": "210"
         },
         {
           "name": "醬油鮮蝦拉麵",
+          "english_translate": "Shrimp ramen",
+          "description":"",
           "price": "210"
         }
-      ],
-      "spicy": [
+      ]},
+      "spicy": {
+        "english_translate": "Spicy",
+        "discount": "週五8折 Fri. 20% off",
+        "menu":[
         {
             "name": "地獄谷野菜拉麵",
+            "english_translate": "Vegetable ramen",
+            "description":"",
             "price": "180"
         },
         {
           "name": "地獄谷叉燒拉麵",
+          "english_translate": "Pork chashu ramen",
+          "description":"",
           "price": "180"
         },
         {
           "name": "地獄谷豬排拉麵",
+          "english_translate": "Tonkatsu ramen",
+          "description":"",
           "price": "180"
         },
         {
           "name": "地獄谷可樂餅拉麵",
+          "english_translate": "Korokke ramen",
+          "description":"",
           "price": "190"
         },
         {
           "name": "地獄谷炸蝦拉麵",
+          "english_translate": "Shrimp tempura ramen",
+          "description":"",
           "price": "210"
         },
         {
           "name": "地獄谷鮮蝦拉麵",
+          "english_translate": "Shrimp ramen",
+          "description":"",
           "price": "210"
         }
-      ],
-      "curry": [
+      ]},
+      "curry": {
+        "english_translate": "Curry",
+        "menu":[
         {
             "name": "咖哩烏龍麵",
+            "english_translate": "Curry udon",
+            "description":"",
             "price": "170"
         },
         {
           "name": "咖哩豬排烏龍麵",
+          "english_translate": "Tonkatsu curry udon",
+          "description":"",
           "price": "190"
         },
         {
           "name": "咖哩炸蝦烏龍麵",
+          "english_translate": "Shrimp tempura curry udon",
+          "description":"",
           "price": "220"
         },
         {
           "name": "咖哩鮮蝦烏龍麵",
+          "english_translate": "Shrimp curry udon",
+          "description":"",
           "price": "220"
         },
         {
           "name": "咖哩飯",
+          "english_translate": "Curry",
+          "description":"",
           "price": "140"
         },
         {
           "name": "炸豬排咖哩飯",
+          "english_translate": "Tonkatsu curry",
+          "description":"",
           "price": "180"
         },
         {
             "name": "可樂餅咖哩飯",
+            "english_translate": "Korokke curry",
+            "description":"",
             "price": "190"
           },
           {
             "name": "炸蝦咖哩飯",
+            "english_translate": "Shrimp tempura curry",
+            "description":"",
             "price": "210"
           }
-      ],
-      "donburi": [
+      ]},
+      "donburi": {
+        "english_translate": "Donburi",
+        "menu":[
         {
             "name": "豬肉蓋飯",
+            "english_translate": "Butadon",
+            "description":"",
             "price": "150"
         },
         {
           "name": "牛肉蓋飯",
+          "english_translate": "Gyudon",
+          "description":"",
           "price": "170"
         },
         {
           "name": "炸豬排蓋飯",
+          "english_translate": "Katsudon",
+          "description":"",
           "price": "180"
         },
         {
           "name": "唐揚雞排蓋飯",
+          "english_translate": "Oyakodon",
+          "description":"",
           "price": "190"
         }
-      ],
-      "sides": [
+      ]},
+      "sides": {
+        "english_translate": "Sides",
+        "menu":[
         {
             "name": "泡菜",
+            "english_translate": "Kimchi",
+            "description":"",
             "price": "50"
         },
         {
           "name": "和風燙野菜",
+          "english_translate": "Blanched choy sum",
+          "description":"",
           "price": "60"
         },
         {
           "name": "花枝丸",
+          "english_translate": "Fried squid ball",
+          "description":"",
           "price": "60"
         },
         {
           "name": "日式豬排",
+          "english_translate": "Tonkatsu",
+          "description":"",
           "price": "80"
         },
         {
             "name": "日式炸蝦",
+            "english_translate": "Shrimp tempura",
+            "description":"",
             "price": "100"
           },
           {
             "name": "白身魚",
+            "english_translate": "Fried fish",
+            "description":"",
             "price": "100"
           },
           {
             "name": "咖哩＆起司 可樂餅",
+            "english_translate": "Curry and cheese korokke",
+            "description":"",
             "price": "80"
           },
           {
             "name": "咖哩＆蔬菜 可樂餅",
+            "english_translate": "Curry and vegetable korokke",
+            "description":"",
             "price": "80"
           },
           {
             "name": "起司＆蔬菜 可樂餅",
+            "english_translate": "Cheese and vegetable korokke",
+            "description":"",
             "price": "80"
           },
           {
             "name": "起司＆起司 可樂餅",
+            "english_translate": "2 pc. cheese korokke",
+            "description":"",
             "price": "90"
           },
           {
             "name": "起司＆咖哩＆蔬菜 可樂餅",
+            "english_translate": "Cheese,curry and vegetable korokke",
+            "description":"",
             "price": "120"
           },
           {
             "name": "廣島牡蠣",
+            "english_translate": "Hiroshima oysters",
+            "description":"",
             "price": "150"
           },
           {
             "name": "麥克雞塊",
+            "english_translate": "Chicken nuggets",
+            "description":"",
             "price": "50"
           },
           {
             "name": "白飯",
+            "english_translate": "Rice",
+            "description":"",
             "price": "10"
           }
-      ]
+      ]}
   }
   
