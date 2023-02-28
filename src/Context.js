@@ -6,6 +6,7 @@ export const Provider = props => {
   const [items, setItems] = useState({});
 
   const updateItem = (type, index, count) => {
+    
     const key = `${type.toLowerCase()}-${index}`;
     const amount = Number.isNaN(Number(count)) ? 0 : Number(count);
 

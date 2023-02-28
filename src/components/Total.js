@@ -9,7 +9,7 @@ export default function Total() {
     
     const [group, item] = curr.split("-");
     
-    const amount = items[curr] * data[group][item].price;
+    const amount = items[curr] * data[group].menu[item].price;
     return acc + amount;
   }, 0);
 
